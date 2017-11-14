@@ -1,0 +1,5 @@
+projectKey=com.htc:MavenSpringMVC
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.htc:MavenSpringMVC
+ceTaskId=AV-2GJKNKY0re1jD69V2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-2GJKNKY0re1jD69V2
