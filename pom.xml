@@ -114,11 +114,12 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
+					
 					<url>http://localhost:8080/manager/html</url>
 					<server>TomcatServer</server>
-					
-					<warFile>target/MavenSpringMVC.war</warFile>
-
+					<username>madhan</username>
+					<password>123Welcome</password>
+					<warFile>target/MavenSpringMVC-1.war</warFile>
 				</configuration>
 			</plugin>
 			<plugin>
