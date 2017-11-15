@@ -119,7 +119,7 @@
 					<server>TomcatServer</server>
 					<username>madhan</username>
 					<password>123Welcome</password>
-					<warFile>target/MavenSpringMVC-1.war</warFile>
+					<warFile>target/MavenSpringMVC.war</warFile>
 				</configuration>
 			</plugin>
 			<plugin>
